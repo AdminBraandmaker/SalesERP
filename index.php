@@ -3,5 +3,6 @@
  {
   $this->db->where('m00_config');
   $this->db->where('m01_location');
+  $this->db->where('m02_location');
  }
 ?>
